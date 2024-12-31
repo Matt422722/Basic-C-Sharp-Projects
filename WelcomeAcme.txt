@@ -1,0 +1,11 @@
+using System;
+
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Welcome to Acme Accounting Systems");
+            Console.WriteLine("\nRemember, we're \"accounting\" on you!");
+            Console.ReadKey();
+        }
+    }
