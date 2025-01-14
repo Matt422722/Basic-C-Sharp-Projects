@@ -1,0 +1,7 @@
+C:\Users\17604\Desktop\Basic_C#_Programs\ParsingEnums\ParsingEnums\bin\Debug\ParsingEnums.exe.config
+C:\Users\17604\Desktop\Basic_C#_Programs\ParsingEnums\ParsingEnums\bin\Debug\ParsingEnums.exe
+C:\Users\17604\Desktop\Basic_C#_Programs\ParsingEnums\ParsingEnums\bin\Debug\ParsingEnums.pdb
+C:\Users\17604\Desktop\Basic_C#_Programs\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.csproj.AssemblyReference.cache
+C:\Users\17604\Desktop\Basic_C#_Programs\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.csproj.CoreCompileInputs.cache
+C:\Users\17604\Desktop\Basic_C#_Programs\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.exe
+C:\Users\17604\Desktop\Basic_C#_Programs\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.pdb
