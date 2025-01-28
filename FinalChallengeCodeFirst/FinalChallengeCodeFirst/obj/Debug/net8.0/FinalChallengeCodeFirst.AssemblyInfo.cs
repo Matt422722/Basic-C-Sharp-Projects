@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FinalChallengeCodeFirst")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56b201c9de5945efd7f151771f73a9e58680e91f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d562a05241a4e19bf52bef904ed93db05f05f832")]
 [assembly: System.Reflection.AssemblyProductAttribute("FinalChallengeCodeFirst")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FinalChallengeCodeFirst")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\17604\\Desktop\\Basic_C#_Programs\\FinalChallengeCodeFirst\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2AE8CC8E-08F5-404D-84D9-A261A1010F3A}|FinalChallengeCodeFirst\\FinalChallengeCodeFirst.csproj|c:\\users\\17604\\desktop\\basic_c#_programs\\finalchallengecodefirst\\finalchallengecodefirst\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE8CC8E-08F5-404D-84D9-A261A1010F3A}|FinalChallengeCodeFirst\\FinalChallengeCodeFirst.csproj|solutionrelative:finalchallengecodefirst\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE8CC8E-08F5-404D-84D9-A261A1010F3A}|FinalChallengeCodeFirst\\FinalChallengeCodeFirst.csproj|c:\\users\\17604\\desktop\\basic_c#_programs\\finalchallengecodefirst\\finalchallengecodefirst\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AE8CC8E-08F5-404D-84D9-A261A1010F3A}|FinalChallengeCodeFirst\\FinalChallengeCodeFirst.csproj|solutionrelative:finalchallengecodefirst\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE8CC8E-08F5-404D-84D9-A261A1010F3A}|FinalChallengeCodeFirst\\FinalChallengeCodeFirst.csproj|c:\\users\\17604\\desktop\\basic_c#_programs\\finalchallengecodefirst\\finalchallengecodefirst\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AE8CC8E-08F5-404D-84D9-A261A1010F3A}|FinalChallengeCodeFirst\\FinalChallengeCodeFirst.csproj|solutionrelative:finalchallengecodefirst\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE8CC8E-08F5-404D-84D9-A261A1010F3A}|FinalChallengeCodeFirst\\FinalChallengeCodeFirst.csproj|c:\\users\\17604\\desktop\\basic_c#_programs\\finalchallengecodefirst\\finalchallengecodefirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AE8CC8E-08F5-404D-84D9-A261A1010F3A}|FinalChallengeCodeFirst\\FinalChallengeCodeFirst.csproj|solutionrelative:finalchallengecodefirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2AE8CC8E-08F5-404D-84D9-A261A1010F3A}|FinalChallengeCodeFirst\\FinalChallengeCodeFirst.csproj|c:\\users\\17604\\desktop\\basic_c#_programs\\finalchallengecodefirst\\finalchallengecodefirst\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AE8CC8E-08F5-404D-84D9-A261A1010F3A}|FinalChallengeCodeFirst\\FinalChallengeCodeFirst.csproj|solutionrelative:finalchallengecodefirst\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2AE8CC8E-08F5-404D-84D9-A261A1010F3A}|FinalChallengeCodeFirst\\FinalChallengeCodeFirst.csproj|c:\\users\\17604\\desktop\\basic_c#_programs\\finalchallengecodefirst\\finalchallengecodefirst\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2AE8CC8E-08F5-404D-84D9-A261A1010F3A}|FinalChallengeCodeFirst\\FinalChallengeCodeFirst.csproj|solutionrelative:finalchallengecodefirst\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AE8CC8E-08F5-404D-84D9-A261A1010F3A}|FinalChallengeCodeFirst\\FinalChallengeCodeFirst.csproj|c:\\users\\17604\\desktop\\basic_c#_programs\\finalchallengecodefirst\\finalchallengecodefirst\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AE8CC8E-08F5-404D-84D9-A261A1010F3A}|FinalChallengeCodeFirst\\FinalChallengeCodeFirst.csproj|solutionrelative:finalchallengecodefirst\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AE8CC8E-08F5-404D-84D9-A261A1010F3A}|FinalChallengeCodeFirst\\FinalChallengeCodeFirst.csproj|c:\\users\\17604\\desktop\\basic_c#_programs\\finalchallengecodefirst\\finalchallengecodefirst\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AE8CC8E-08F5-404D-84D9-A261A1010F3A}|FinalChallengeCodeFirst\\FinalChallengeCodeFirst.csproj|solutionrelative:finalchallengecodefirst\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2AE8CC8E-08F5-404D-84D9-A261A1010F3A}|FinalChallengeCodeFirst\\FinalChallengeCodeFirst.csproj|c:\\users\\17604\\desktop\\basic_c#_programs\\finalchallengecodefirst\\finalchallengecodefirst\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,11 +54,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\17604\\Desktop\\Basic_C#_Programs\\FinalChallengeCodeFirst\\FinalChallengeCodeFirst\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FinalChallengeCodeFirst\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\17604\\Desktop\\Basic_C#_Programs\\FinalChallengeCodeFirst\\FinalChallengeCodeFirst\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "FinalChallengeCodeFirst\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T20:57:35.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\17604\\Desktop\\Basic_C#_Programs\\FinalChallengeCodeFirst\\FinalChallengeCodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FinalChallengeCodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\17604\\Desktop\\Basic_C#_Programs\\FinalChallengeCodeFirst\\FinalChallengeCodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FinalChallengeCodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwCUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T20:50:14.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\17604\\Desktop\\Basic_C#_Programs\\FinalChallengeCodeFirst\\FinalChallengeCodeFirst\\Views\\Student\\Edit.cshtml",
               "RelativeDocumentMoniker": "FinalChallengeCodeFirst\\Views\\Student\\Edit.cshtml",
@@ -58,38 +92,37 @@
               "RelativeToolTip": "FinalChallengeCodeFirst\\Views\\Student\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-28T05:11:42.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T05:11:42.925Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\17604\\Desktop\\Basic_C#_Programs\\FinalChallengeCodeFirst\\FinalChallengeCodeFirst\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "FinalChallengeCodeFirst\\Views\\Student\\Index.cshtml",
               "ToolTip": "C:\\Users\\17604\\Desktop\\Basic_C#_Programs\\FinalChallengeCodeFirst\\FinalChallengeCodeFirst\\Views\\Student\\Index.cshtml",
               "RelativeToolTip": "FinalChallengeCodeFirst\\Views\\Student\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-28T05:07:27.258Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\17604\\Desktop\\Basic_C#_Programs\\FinalChallengeCodeFirst\\FinalChallengeCodeFirst\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "FinalChallengeCodeFirst\\Controllers\\StudentController.cs",
               "ToolTip": "C:\\Users\\17604\\Desktop\\Basic_C#_Programs\\FinalChallengeCodeFirst\\FinalChallengeCodeFirst\\Controllers\\StudentController.cs",
               "RelativeToolTip": "FinalChallengeCodeFirst\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAIwGIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T05:06:39.259Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "20250128045629_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\17604\\Desktop\\Basic_C#_Programs\\FinalChallengeCodeFirst\\FinalChallengeCodeFirst\\Migrations\\20250128045629_InitialCreate.cs",
               "RelativeDocumentMoniker": "FinalChallengeCodeFirst\\Migrations\\20250128045629_InitialCreate.cs",
@@ -97,12 +130,11 @@
               "RelativeToolTip": "FinalChallengeCodeFirst\\Migrations\\20250128045629_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T04:56:30.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T04:56:30.021Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\17604\\Desktop\\Basic_C#_Programs\\FinalChallengeCodeFirst\\FinalChallengeCodeFirst\\Program.cs",
               "RelativeDocumentMoniker": "FinalChallengeCodeFirst\\Program.cs",
@@ -110,12 +142,11 @@
               "RelativeToolTip": "FinalChallengeCodeFirst\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T04:49:03.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T04:49:03.644Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\17604\\Desktop\\Basic_C#_Programs\\FinalChallengeCodeFirst\\FinalChallengeCodeFirst\\appsettings.json",
               "RelativeDocumentMoniker": "FinalChallengeCodeFirst\\appsettings.json",
@@ -123,12 +154,11 @@
               "RelativeToolTip": "FinalChallengeCodeFirst\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-28T04:48:43.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T04:48:43.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "SchoolContext.cs",
               "DocumentMoniker": "C:\\Users\\17604\\Desktop\\Basic_C#_Programs\\FinalChallengeCodeFirst\\FinalChallengeCodeFirst\\Data\\SchoolContext.cs",
               "RelativeDocumentMoniker": "FinalChallengeCodeFirst\\Data\\SchoolContext.cs",
@@ -136,12 +166,11 @@
               "RelativeToolTip": "FinalChallengeCodeFirst\\Data\\SchoolContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T04:48:08.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T04:48:08.796Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\17604\\Desktop\\Basic_C#_Programs\\FinalChallengeCodeFirst\\FinalChallengeCodeFirst\\Models\\Student.cs",
               "RelativeDocumentMoniker": "FinalChallengeCodeFirst\\Models\\Student.cs",
@@ -154,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\17604\\Desktop\\Basic_C#_Programs\\FinalChallengeCodeFirst\\FinalChallengeCodeFirst\\Views\\Student\\Create.cshtml",
               "RelativeDocumentMoniker": "FinalChallengeCodeFirst\\Views\\Student\\Create.cshtml",
@@ -162,8 +191,7 @@
               "RelativeToolTip": "FinalChallengeCodeFirst\\Views\\Student\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-28T05:07:59.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T05:07:59.296Z"
             }
           ]
         }
