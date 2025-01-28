@@ -1,0 +1,30 @@
+﻿@model IEnumerable<FinalChallengeCodeFirst.Models.Student>
+
+<h1>Student List</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.Name</td>
+                <td>@student.Age</td>
+                <td>
+                    <a href="@Url.Action("Edit", "Student", new { id = student.Id })" class="btn btn-primary">Edit</a>
+                    <a href="@Url.Action("Delete", "Student", new { id = student.Id })" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("Create", "Student")" class="btn btn-success">Create New Student</a>
+
+
